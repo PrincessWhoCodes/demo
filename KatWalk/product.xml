@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product_det>
+  <product>
+        <product_id>1</product_id>
+        <product_name>Fancy Belly</product_name>
+		<brand>KatWalk</brand>
+		<description>soft and comfy bellies for women</description>
+		<category>Female</category>
+		<type>Belly</type>
+		<price>Rs.700</price>
+        <image>C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\belly.jpg</image>
+   </product>
+   <product>
+        <product_id>2</product_id>
+        <product_name>Trendy High Heels</product_name>
+		<brand>Bata</brand>
+		<description>Gorgeous and Trendy High Heels for women</description>
+		<category>Female</category>
+		<type>Heels</type>
+		<price>Rs.2000</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\heels.jpeg"</image>
+   </product>
+   <product>
+        <product_id>3</product_id>
+        <product_name>Shoes</product_name>
+		<brand>Bata</brand>
+		<description>Sports shoes for women</description>
+		<category>Femle</category>
+		<type>Sport Shoes</type>
+		<price>Rs.1500</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\shoes.jpeg"</image>
+   </product>
+   <product>
+        <product_id>4</product_id>
+        <product_name>Flats</product_name>
+		<brand>KatWalk</brand>
+		<description>Comfy slippers for women</description>
+		<category>Female</category>
+		<type>Slipper</type>
+		<price>Rs.500</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\womslepper.jpeg"</image>
+   </product>
+   <product>
+        <product_id>5</product_id>
+        <product_name>Traditinal Wedding Heels</product_name>
+		<brand>KatWalk</brand>
+		<description>Gorgeous and Wedding Wear Heels for women</description>
+		<category>Female</category>
+		<type>Sandals</type>
+		<price>Rs.1900</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\womwed.jpeg"</image>
+   </product>
+   <product>
+   <product_id>6</product_id>
+        <product_name>Sneakers</product_name>
+		<brand>KatWalk</brand>
+		<description>Stylish and sports wear sneakers</description>
+		<category>Male</category>
+		<type>Sports shoes</type>
+		<price>Rs.900</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\sneaker.jpg"</image>
+   </product>
+   <product>
+   <product_id>7</product_id>
+        <product_name>Sleeper</product_name>
+		<brand>Bata</brand>
+		<description>Comfy and trendy sleeper for men</description>
+		<category>Male</category>
+		<type>Flats</type>
+		<price>Rs.400</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\manslepper.jpeg"</image>
+   </product>
+   <product>
+   <product_id>8</product_id>
+        <product_name>Men Traditinal Boats</product_name>
+		<brand>KatWalk</brand>
+		<description>Stylish and Trendy Boats for Men.Best For wedding seasons</description>
+		<category>Male</category>
+		<type>Shoes</type>
+		<price>Rs.1000</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\manwed.jpeg"</image>
+   </product>
+   <product>
+   <product_id>9</product_id>
+        <product_name>Comfy Wear Male Sandals</product_name>
+		<brand>KatWalk</brand>
+		<description>Comfy sandals for men</description>
+		<category>Male</category>
+		<type>Sandal</type>
+		<price>Rs.500</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\mensandals.jpeg"</image>
+   </product>
+   <product>
+   <product_id>10</product_id>
+        <product_name>Trendy Boots</product_name>
+		<brand>Bata</brand>
+		<description>Trendy and Stylish Boots for Men</description>
+		<category>Male</category>
+		<type>Boots</type>
+		<price>Rs.2000</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\menboots.jpeg"</image>
+   </product>
+   <product>
+   <product_id>11</product_id>
+        <product_name>Trendy High Heels</product_name>
+		<brand>Bata</brand>
+		<description>Gorgeous and Trendy High Heels for women</description>
+		<category>Female</category>
+		<type>Heels</type>
+		<price>Rs.1000</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\heels.jpeg"</image>
+   </product>
+   <product>
+   <product_id>12</product_id>
+        <product_name>Fancy kids wear</product_name>
+		<brand>Bata</brand>
+		<description>Fancy sleeper for kids</description>
+		<category>Kids</category>
+		<type>Sandals</type>
+		<price>Rs.900</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\kidfancy.jpg"</image>
+   </product>
+   <product>
+   <product_id>13</product_id>
+        <product_name>Kids belly</product_name>
+		<brand>KatWalk</brand>
+		<description>Fancy bellies for kids.</description>
+		<category>Kids</category>
+		<type>Belly</type>
+		<price>Rs.1500</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\kidsbelly.jpeg"</image>
+   </product>
+   <product>
+   <product_id>14</product_id>
+        <product_name>Kids shoes</product_name>
+		<brand>Bata</brand>
+		<description>Gorgeous and Trendy Shoes for kids</description>
+		<category>Kids</category>
+		<type>Shoes</type>
+		<price>Rs.2000</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\kidshoes.jpeg"</image>
+   </product>
+   <product>
+   <product_id>15</product_id>
+        <product_name>Lightining sleepers</product_name>
+		<brand>KatWalk</brand>
+		<description>Stylish and Trendy lightining sleepers for kids</description>
+		<category>Kids</category>
+		<type>Sleeper</type>
+		<price>Rs.1500</price>
+		<image>"C:\Users\sanja\OneDrive\Documents\vaishnavi pandya\web designing\practice\footwear\images\kidslepper.jpeg"</image>
+   </product>
+</product_det>
